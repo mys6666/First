@@ -2,7 +2,7 @@
   
       echo "Hello Ravindra miyani"';
 
-
+      var_dump("this can also be printed really simple !");
 
 
 ?>
